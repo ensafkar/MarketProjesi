@@ -1,2 +1,2 @@
 This is a market control and sales project built using SQLite and Java Swing. The project requires JDK 1.8 and was created using Netbeans IDE. There are two login options, Manager and Employee. The Manager has access to Employee Management (Add, Delete, Edit, View), Category Management (Add, Delete, Edit, View), Product Management (Add, Delete, Edit, View), Report Generation based on employee and all employees, and password change option in Settings.
-
+User Name: admin Password: 123456 Staff Login User Name: ensafkar Password: 123456
